@@ -10,10 +10,6 @@ A simple and responsive textarea component built with **HTML**, **Tailwind CSS**
 - Responsive and modern design with Tailwind CSS
 - Lightweight and easy to integrate
 
-## 🖼️ Demo
-
-<!-- Add a screenshot or gif here -->
-![Textarea Demo](screenshot.png)
 
 ## 🔧 Technologies Used
 
